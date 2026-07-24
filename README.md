@@ -7,7 +7,7 @@ This python project uses classes, loops, lists and game logic while simulating a
 
 ## How the Game Works
 
-The game starts off with **52 deck of cards**, which is shuffled before play begins.
+The game starts off with **one deck of 52 cards**, which is shuffled before play begins.
 
 - Each player gets even amount of cards. **26 cards**
 - During each round:
